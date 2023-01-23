@@ -36,6 +36,14 @@ class Logger {
     public function __construct(string $logFile, string $logLevel = self::DEBUG) {
         $this->logFile = $logFile;
         $this->logLevel = $logLevel;
+        // call function to set the permissions
+        $this->setPermissions();
+    }
+    /**
+     * Set the permissions of the log file
+     */
+    public function setPermissions(): void {
+        chmod($this->logFile, 0666);
     }
     
     /**
