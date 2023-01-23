@@ -1,5 +1,5 @@
 # RCLogger
-Detailed logging class
+'Logging' class written in PHP with detailed and diverse features.
 
 ### To-Do List
 - [x] Oluşturulan günlük kaydını belirtilen dosyaya sorunsuz yazması için gerekli dosya izinleri sağlayan işlevi oluştur. 
