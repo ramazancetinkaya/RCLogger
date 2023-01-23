@@ -9,7 +9,7 @@ $logger = new Logger('/path/to/log/file.log', Logger::ERROR);
 ### To-Do List
 - [x] Oluşturulan günlük kaydını belirtilen dosyaya sorunsuz yazması için gerekli dosya izinleri sağlayan işlevi oluştur. 
 - [ ] logs.sql (.SQL) dosyası için 'RCLogger.php' isimli sınıfa, veritabanı bağlantısını sağlayan ve oluşturulan günlük kaydını belirlenen tabloya sorunsuz ekleyen işlevi oluştur.
-- [ ] Sistem tarafından gerekli görüldüğünde e-posta adresine günlük kaydınının kopyasını gönderen işlevi oluştur.
+- [ ] Sistem tarafından gerekli görüldüğünde önceden belirlenmiş e-posta adresine günlük kaydınının kopyasını gönderen işlevi oluştur.
 
 ### Author
 
