@@ -14,4 +14,3 @@
 ### License
 
 Copyright © 2023, [Ramazan Çetinkaya](https://github.com/ramazancetinkaya).
-Released under the [MIT License](LICENSE).
