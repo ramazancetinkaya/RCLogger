@@ -11,7 +11,7 @@ $logger = new Logger('/path/to/log/file.log', Logger::ERROR);
 - [ ] logs.sql (.SQL) dosyası için 'RCLogger.php' isimli sınıfa, veritabanı bağlantısını sağlayan ve oluşturulan günlük kaydını belirlenen tabloya sorunsuz ekleyen işlevi oluştur.
 - [ ] Sistem tarafından gerekli görüldüğünde önceden belirlenmiş e-posta adresine günlük kaydının bir kopyasını gönderen işlevi oluştur.
 
-### Author
+### Authors
 
 **Ramazan Çetinkaya**
 
